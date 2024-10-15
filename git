@@ -1,0 +1,60 @@
+[33mcommit 9bd4aca198a0da7308a993e432a7d606278a1b09[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: e2cb259 d929e3f
+Author: Hoseong Jang <jangyoungh@gachon.ac.kr>
+Date:   Tue Oct 15 23:44:20 2024 +0900
+
+    Merge branch 'main' of https://github.com/ceongpi/git-practice
+
+[33mcommit e2cb259bf4c259eeebc1ae8169cf238293aaf2ed[m
+Author: Hoseong Jang <jangyoungh@gachon.ac.kr>
+Date:   Tue Oct 15 23:43:34 2024 +0900
+
+    qwer
+
+[33mcommit 1a6b3cfc85a7e335b9a3908424e56c83a09435a9[m
+Author: Hoseong Jang <jangyoungh@gachon.ac.kr>
+Date:   Tue Oct 15 23:41:50 2024 +0900
+
+    TEST#
+
+[33mcommit 10d6ad5ef8fe960fba6789f3ae875f15d9d95b9a[m
+Author: Hoseong Jang <jangyoungh@gachon.ac.kr>
+Date:   Tue Oct 15 23:41:32 2024 +0900
+
+    TEST2
+
+[33mcommit 96c2985e5f40ba861871f1546820c0630c3ff0b9[m
+Author: Hoseong Jang <jangyoungh@gachon.ac.kr>
+Date:   Tue Oct 15 23:41:13 2024 +0900
+
+    TEST
+
+[33mcommit d929e3feb4944c522918c3484be2bf62f7bd23e9[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: ceongpi <janghosung2004@gmail.com>
+Date:   Tue Oct 15 23:37:59 2024 +0900
+
+    Update word.txt
+
+[33mcommit e874511ac62006444e800eb9c38b7519a7d4c2e6[m
+Author: ceongpi <janghosung2004@gmail.com>
+Date:   Tue Oct 15 23:37:14 2024 +0900
+
+    Update new_folder
+
+[33mcommit 78a69a76c21d9ee513c0b8f94d64c9955c9d4000[m
+Author: ceongpi <janghosung2004@gmail.com>
+Date:   Tue Oct 15 23:36:23 2024 +0900
+
+    Update main.py
+
+[33mcommit 4e827d459c6ef3b5116480cec652a6ee4aef8ef6[m
+Author: ceongpi <janghosung2004@gmail.com>
+Date:   Tue Oct 15 23:35:49 2024 +0900
+
+    Update README.md
+
+[33mcommit 1367fd75d260a17d807253ea60260b89903ba36d[m
+Author: Hoseong Jang <jangyoungh@gachon.ac.kr>
+Date:   Tue Oct 15 23:32:43 2024 +0900
+
+    Initial commit
